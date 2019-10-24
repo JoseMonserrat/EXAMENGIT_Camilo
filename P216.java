@@ -5,14 +5,10 @@ import java.util.Scanner;
 public class P216 {
 
  public static void main( String[] args ) {
-     
+    Scanner sc = new Scanner (System.in); 
     
      int ncasos, gota;
- 
-
-   
-     Scanner SC = new Scanner(System.in);
-     int c;
+     int c; 
      
      ncasos = SC.nextInt();
      
